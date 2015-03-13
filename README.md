@@ -1,0 +1,1 @@
+spring-roo-addon-i18n-malayalam
